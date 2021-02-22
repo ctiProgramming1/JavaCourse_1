@@ -1,3 +1,10 @@
+/* 
+  Lecture 2: Math library and Scanner class(read user's input)
+
+  source 1: https://harmash.com/java/java-numbers/
+  source 2: https://harmash.com/java/java-user-input/
+*/
+
 package Lectures;
 
 import java.math.*;
@@ -23,12 +30,13 @@ public class Lec02 {
 		System.out.println(Math.max(a,b)); // القيمة الأكبر بين عددين
 		System.out.println(Math.min(a,b)); // القيمة الأصغر بين عددين
 		System.out.println(Math.sin(180)); 
-		System.out.println(Math.PI); // π
+		System.out.println(Math.PI); // 𝜋
 		System.out.println(Math.pow(a, 2)); // a²
 		System.out.println(Math.round(8.65)); // تقريب الى أقرب رقم صحيح
 		System.out.println(Math.round(8.659857*100)/ 100.0); // تقريب رقم كسري الى خانتين بعد الفاصلة
 		System.out.println(Math.sqrt(9)); // الجذر التربيعي
 		System.out.println(Math.abs(-12)); // القيمة المطلقة
+		System.out.println(Math.random()); // القيمة المطلقة
 		
 		// find the area of a square
 		double length = 8.0;
@@ -53,6 +61,6 @@ public class Lec02 {
 
 		int number1 = reader.nextInt(); //int لقراءة بيانات من نوع 
 		double number2  = reader.nextDouble(); //double لقراءة بيانات من نوع 
-		String text  = reader.nextLine(); //String لقراءة بيانات من نوع 
+		String text1  = reader.nextLine(); //String لقراءة بيانات من نوع 
 	}
 }
