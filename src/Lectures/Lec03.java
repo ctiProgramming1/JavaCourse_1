@@ -7,32 +7,32 @@ public class Lec03 {
 	public static void main(String[] args) {
 		boolean condition = false;
 		
-//		if (condition) {
-//			// if condition is true
-//			System.out.println("Turn Right");			
-//		}
-//		else {
-//			// if condition is false
-//			System.out.println("Turn Left");
-//		}
+		if (condition) {
+			// if condition is true
+			System.out.println("Turn Right");			
+		}
+		else {
+			// if condition is false
+			System.out.println("Turn Left");
+		}
 		
 		Scanner reader = new Scanner(System.in);
 		
-//		System.out.print("Number 1: ");
-//		int number1 = reader.nextInt();
-//		
-//		System.out.print("Number 2: ");
-//		int number2 = reader.nextInt();
-//		
-//		if(number1 == number2) {
-//			System.out.println("Number1 equal number2");
-//		}
-//		else if(number1 > number2) {
-//			System.out.println("Number1 is the greatest!");
-//		}
-//		else {
-//			System.out.println("Number2 is the greatest!");
-//		}
+		System.out.print("Number 1: ");
+		int number1 = reader.nextInt();
+		
+		System.out.print("Number 2: ");
+		int number2 = reader.nextInt();
+		
+		if(number1 == number2) {
+			System.out.println("Number1 equal number2");
+		}
+		else if(number1 > number2) {
+			System.out.println("Number1 is the greatest!");
+		}
+		else {
+			System.out.println("Number2 is the greatest!");
+		}
 		
 		System.out.print("Enter your grade: ");
 		
