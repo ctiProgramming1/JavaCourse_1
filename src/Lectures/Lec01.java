@@ -1,22 +1,25 @@
-package Lectures;
-
 /* 
-	Lecture 1: Data Types and Variables
-	source 1: https://harmash.com/java/java-basic-data-types/
-	source 2: https://harmash.com/java/java-variables-type/
- 
+  Lecture 1: Data Types and Variables
+	
+  source 1: https://harmash.com/java/java-basic-data-types/
+  source 2: https://harmash.com/java/java-variables-type/
 */
+
+package Lectures;
 
 public class Lec01 {
 
 	public static void main(String[] args) {
 		// This is the first lecture
 		
+		// Syntax
+		// type variable_name = value;
+		
 		// Primitive data types
-		int numberOfStudents = 70;	// declaration
+		int numberOfStudents;	// declaration
 		numberOfStudents = 90;	// initialization
 		
-		int b = 2; // declaration and initialization
+		int a = 7; // declaration and initialization
 		
 		// الأرقام
 		byte number1 = 32; // عدد صحيح يتألف من 8 بت
