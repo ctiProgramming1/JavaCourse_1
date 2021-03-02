@@ -8,20 +8,69 @@
 
 package Lectures;
 
+import java.math.*;
+
 public class Lec04 {
 
 	public static void main(String[] args) {
 
-		// Ternary Operator
+		// Casting types تحويل المتغير من نوع الى نوع آخر
+		
+		double number1 = 9.87;
+		
+		int number2 = (int) number1; // manual casting
+		
+		double number3 =  number2; // automatic casting
+		
+		System.out.println(number1);
+		System.out.println(number2);
+		System.out.println(number3);
+		
+		// Casting String to int
+		int number1 = Integer.parseInt("23");
+		System.out.println(number1);
+		
+		// Casting String to double
+		double number2 = Double.parseDouble("3.5");
+		System.out.println(number2);
+	
+		
+		// Random numbers انشاء ارقام عشوائية
+	
+		// لإنشاء رقم عشوائي من 0 الى 1
+		System.out.println(Math.random());
+		
+		// لإنشاء رقم عشوائي من 0 الى 100
+		int randomNumber1 = (int) (Math.random() * 100);		
+		System.out.println(randomNumber1);
 
-		// Casting types
+		// Random number between min and max
+		// (int) ((Math.random() * (max - min)) + min
+		// Random number between 80 and 100 
+		// لإنشاء رقم عشوائي من 0 الى 100
+		int randomNumber2 = (int) (Math.random() * (100 - 80)) + 80;		
+		System.out.println(randomNumber2);
 
-		// Random numbers
-
-		// String manipulations
+		
+		// String manipulations التعامل مع النصوص
+		
+		String name = "Khaled Alyousefi";
+		
+		System.out.println("The name length is: " + name.length());
+		System.out.println(name.toUpperCase());
+		System.out.println(name.toLowerCase());
+		System.out.println(name.charAt(7));
+		System.out.println(name.indexOf("you")); // اذا النتيجة 1- فيعني أن النص غير موجود
+		System.out.println(name.concat(" is here")); // equal to (name + " is here")
+		System.out.println(name.contains("ed"));
+		System.out.println(name.substring(7)); // get the string from 7 
+		System.out.println(name.substring(7, 12));// get the string from 7 to 11
+		System.out.println(name.replace('e', 'i'));
+		System.out.println(name.startsWith("Khal"));
+		System.out.println(name.endsWith("e"));
+		System.out.println(name.equals("khaled Alyousefi"));
+		System.out.println(name.equalsIgnoreCase("khaled Alyousefi"));
+		System.out.println(name.trim()); // حذف المسافات في بداية ونهاية النص		
 
 	}
-
 }
-
-// (int) ((Math.random() * (max - min)) + min)

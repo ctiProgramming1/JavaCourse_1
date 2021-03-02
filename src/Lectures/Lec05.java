@@ -11,7 +11,16 @@ package Lectures;
 public class Lec05 {
 
 	public static void main(String[] args) {
-
+		
+		// Casting String to int
+		int number1 = Integer.parseInt("23");
+		System.out.println(number1);
+		
+		// Casting String to double
+		double number2 = Double.parseDouble("3.5");
+		System.out.println(number2);
+	
+		
 		// Ternary Operator
 
 		
