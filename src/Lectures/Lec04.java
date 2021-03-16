@@ -26,13 +26,21 @@ public class Lec04 {
 		System.out.println(number2);
 		System.out.println(number3);
 		
-		// Casting String to int
-		int number1 = Integer.parseInt("23");
-		System.out.println(number1);
 		
-		// Casting String to double
-		double number2 = Double.parseDouble("3.5");
-		System.out.println(number2);
+		// Casting String to int تحويل (النص المحتوي على رقم صحيح) الى رقم صحيح
+		String a = "23";
+		int n1 = Integer.parseInt(a);
+		System.out.println(n1);
+		
+		// Casting String to double تحويل (النص المحتوي على رقم كسري) الى رقم كسري
+		String b = "3.5";
+		double n2 = Double.parseDouble(b);
+		System.out.println(n2);
+		
+		Double.parseDouble("1.5");
+		Integer.parseInt("66");
+		
+
 	
 		
 		// Random numbers انشاء ارقام عشوائية
@@ -47,7 +55,6 @@ public class Lec04 {
 		// Random number between min and max
 		// (int) ((Math.random() * (max - min)) + min
 		// Random number between 80 and 100 
-		// لإنشاء رقم عشوائي من 0 الى 100
 		int randomNumber2 = (int) (Math.random() * (100 - 80)) + 80;		
 		System.out.println(randomNumber2);
 

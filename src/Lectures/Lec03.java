@@ -10,6 +10,7 @@ package Lectures;
 import java.util.Scanner;
 
 public class Lec03 {
+	
 
 	public static void main(String[] args) {
 		
@@ -35,7 +36,7 @@ public class Lec03 {
 //			<=	:	Less than or Equal to
 		
 		
-		// EXAMPLE 1
+		// EXAMPLE 1: Simple if-statement
 		
 		Scanner reader = new Scanner(System.in);
 				
@@ -62,7 +63,7 @@ public class Lec03 {
 //			!  :	NOT
 		
 		
-		// EXAMPLE 2
+		// EXAMPLE 2: Nested if-statement
 		
 		System.out.print("Enter your grade: ");
 		
@@ -90,6 +91,8 @@ public class Lec03 {
 			else 
 				System.out.println("F");			
 		}
+		
+		reader.close();
 		
 		// اختبار المدخلات قبل التعامل معها
 		// reader.hasNextDouble() : double هل المدخل من نوع 
