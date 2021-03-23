@@ -16,7 +16,7 @@ public class Lec06 {
 		// for loop
 		
 		String name = "Ali";
-//		
+		
 		for(int i = 1; i<=10; i++)
 			System.out.print(name + i + " ");
 		
@@ -67,7 +67,7 @@ public class Lec06 {
 		}
 		
 		
-		// EXAMPLE 1
+		// EXAMPLE 1 طباعة جدول الضرب
 		
 		for(int i = 1; i<=10; i++)
 		{
@@ -107,10 +107,8 @@ public class Lec06 {
 			System.out.print("Hi ");
 			Thread.sleep(1000); // انتظر ثانية
 		}
-			
-		// Closing Scanner
-		
-		// EXAMPLE 2
+					
+		// EXAMPLE 2 عمل اختبار للمستخدم من خمسة أسئلة
 		
 		Scanner r = new Scanner(System.in);
 		
@@ -128,7 +126,8 @@ public class Lec06 {
 		
 		System.out.println("Your score is " + score + " of " + n);
 		
-		// You should close the scanner every time you use it
+		// Closing Scanner
+		// You should always close the scanner when finish.
 		r.close();
 
 	}

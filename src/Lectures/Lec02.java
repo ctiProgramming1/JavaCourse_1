@@ -36,7 +36,6 @@ public class Lec02 {
 		System.out.println(Math.round(8.659857*100)/ 100.0); // تقريب رقم كسري الى خانتين بعد الفاصلة
 		System.out.println(Math.sqrt(9)); // الجذر التربيعي
 		System.out.println(Math.abs(-12)); // القيمة المطلقة
-		System.out.println(Math.random()); // القيمة المطلقة
 		
 		// find the area of a square
 		double length = 8.0;

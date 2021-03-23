@@ -1,9 +1,10 @@
 /* 
   Lecture 7: Arrays
   
-  source: https://harmash.com/java/java-arrays/
-
+  source 1: https://harmash.com/java/java-arrays/
+  source 2: https://www.w3schools.com/java/java_arrays.asp
 */
+
 package Lectures;
 
 public class Lec07 {

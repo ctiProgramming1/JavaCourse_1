@@ -1,7 +1,8 @@
 /* 
   Lecture 8: Methods
   
-  source: https://harmash.com/java/java-arrays/
+  source 1: https://harmash.com/java/java-methods/
+  source 2: https://www.w3schools.com/java/java_methods.asp
 
 */
 package Lectures;
