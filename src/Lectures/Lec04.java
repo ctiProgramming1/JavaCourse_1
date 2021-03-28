@@ -66,7 +66,7 @@ public class Lec04 {
 		System.out.println("The name length is: " + name.length());
 		System.out.println(name.toUpperCase());
 		System.out.println(name.toLowerCase());
-		System.out.println(name.charAt(7));
+		System.out.println(name.charAt(7)); // الحرف الثامن
 		System.out.println(name.indexOf("you")); // اذا النتيجة 1- فيعني أن النص غير موجود
 		System.out.println(name.concat(" is here")); // equal to (name + " is here")
 		System.out.println(name.contains("ed"));

@@ -19,3 +19,4 @@ Direct links:
   - [Lecture 04](https://eu-lti.bbcollab.com/recording/b4adb5be60ac48a7ad62b07755efa179)
   - [Lecture 05](https://eu-lti.bbcollab.com/recording/30074dedfb7f4fe09cdfe47ffd6a0cbb)
   - [Lecture 06](https://eu-lti.bbcollab.com/recording/f58d2214945a459d82e288de3fc972cf)
+  - [Lecture 07](https://eu-lti.bbcollab.com/recording/10902bf829c547f5848be2501ec248ce)
