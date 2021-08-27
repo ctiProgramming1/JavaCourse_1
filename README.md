@@ -22,3 +22,9 @@ Direct links:
   - [Lecture 07](https://eu-lti.bbcollab.com/recording/10902bf829c547f5848be2501ec248ce)
   - [Lecture 08](https://eu-lti.bbcollab.com/recording/f0110998e31046fa82ebce59be82794f)
   - [Lecture 09](https://eu-lti.bbcollab.com/recording/a7c6ae3e2cb0462194f1d11a5ad3222d)
+
+
+## Other resources:
+
+  - [Learn Typing in English](https://www.typing.com)
+  - [Learn Typing in Arabic](https://www.tybaa.com)
