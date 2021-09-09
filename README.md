@@ -24,7 +24,7 @@ Direct links:
   - [Lecture 09](https://eu-lti.bbcollab.com/recording/a7c6ae3e2cb0462194f1d11a5ad3222d)
 
 
-## Other resources:
+## Learn Typing:
 
   - [Learn Typing in English](https://www.typing.com)
   - [Learn Typing in Arabic](https://www.tybaa.com)
