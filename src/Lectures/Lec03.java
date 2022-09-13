@@ -99,5 +99,26 @@ public class Lec03 {
 		// reader.hasNextInt() : int هل المدخل من نوع 
 		// reader.hasNextLine() : String هل المدخل من نوع 
 		
+		
+		///////////////////////////////////////////////////
+		// Air Condition Controller
+		///////////////////////////////////////////////////
+
+		double temperature = 17;
+		boolean isRunning = true;
+		
+		if(temperature < 18 && isRunning) {
+			System.out.print("TURN OFF!");
+			isRunning = false;
+		}
+		else if(temperature > 22 && !isRunning) {
+			System.out.print("TURN ON!");
+			isRunning = true;
+		}
+		
+		else
+			System.out.print("Do Nothing!");
+
+		
 	}
 }
