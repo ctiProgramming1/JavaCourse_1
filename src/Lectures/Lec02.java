@@ -1,8 +1,8 @@
 /* 
   Lecture 2: Math library and Scanner class(read user's input)
 
-  source 1: https://harmash.com/java/java-numbers/
-  source 2: https://harmash.com/java/java-user-input/
+  source 1: https://harmash.com/tutorials/java/numbers
+  source 2: https://harmash.com/tutorials/java/user-inputs
 */
 
 package Lectures;
