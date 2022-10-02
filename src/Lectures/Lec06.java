@@ -1,7 +1,7 @@
 /* 
   Lecture 6: Loops: for loop, for-in loop, while loop, do while loop and break/continue
   
-  source: https://harmash.com/java/java-loops/
+  source: https://harmash.com/tutorials/java/loops
 */
 
 package Lectures;
