@@ -1,8 +1,8 @@
 /* 
   Lecture 1: Data Types and Variables
 	
-  source 1: https://harmash.com/java/java-basic-data-types/
-  source 2: https://harmash.com/java/java-variables-type/
+  source 1: https://harmash.com/tutorials/java/basic-data-types
+  source 2: https://harmash.com/tutorials/java/variables-type
 */
 
 package Lectures;
