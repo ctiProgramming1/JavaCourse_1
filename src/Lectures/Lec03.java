@@ -1,8 +1,9 @@
 /* 
   Lecture 3: Conditional if-statement , nested if-statement, Comparison & Logical Operators
 
-  source 1: https://harmash.com/java/java-conditions/if-else-statements.php
-  source 2: https://harmash.com/java/java-operators/
+  source 1: https://harmash.com/tutorials/java/conditions
+  source 2: https://harmash.com/tutorials/java/conditions/if-else
+  source 3: https://harmash.com/tutorials/java/operators
 */
 
 package Lectures;
