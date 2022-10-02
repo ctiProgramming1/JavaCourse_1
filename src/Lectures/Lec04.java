@@ -1,9 +1,9 @@
 /* 
   Lecture 4: Casting Types, Generate Random Numbers, String class
   
-  source 1: https://www.w3schools.com/java/java_type_casting.asp
-  source 2: https://harmash.com/java/java-numbers/math-random.php
-  source 3: https://harmash.com/java/java-strings/
+  source 1: https://harmash.com/tutorials/java/type-casting
+  source 2: https://harmash.com/tutorials/java/numbers/math-random
+  source 3: https://harmash.com/tutorials/java/strings
 */
 
 package Lectures;
