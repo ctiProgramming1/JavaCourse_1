@@ -1,9 +1,9 @@
 /* 
   Lecture 5: Ternary Operator, Assignment Operators, Switch
-  
-  source 1: https://harmash.com/java/java-operators/other-operators-examples.php
-  source 2: https://harmash.com/java/java-operators/
-  source 3: https://harmash.com/java/java-conditions/switch-statement.php
+ 
+  source 1: https://harmash.com/tutorials/java/operators/others
+  source 2: https://harmash.com/tutorials/java/operators
+  source 3: https://harmash.com/tutorials/java/conditions/switch
 */
 
 package Lectures;
