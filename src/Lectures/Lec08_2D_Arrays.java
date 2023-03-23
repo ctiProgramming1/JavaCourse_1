@@ -7,7 +7,7 @@
 */
 package Lectures;
 
-public class Lec08 {
+public class Lec08_2D_Arrays {
 
 	public static void main(String[] args) {
 

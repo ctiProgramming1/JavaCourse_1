@@ -7,7 +7,7 @@
 
 package Lectures;
 
-public class Lec01 {
+public class Lec01_Data_Types_Variables {
 
 	public static void main(String[] args) {
 		// This is the first lecture

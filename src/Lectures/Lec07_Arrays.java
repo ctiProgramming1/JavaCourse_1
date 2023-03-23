@@ -10,7 +10,7 @@ package Lectures;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Lec07 {
+public class Lec07_Arrays {
 
 	public static void main(String[] args) {
 		

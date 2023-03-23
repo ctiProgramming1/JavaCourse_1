@@ -10,7 +10,7 @@ package Lectures;
 import java.math.*;
 import java.util.Scanner;
 
-public class Lec02 {
+public class Lec02_Math_Scanner {
 
 	public static void main(String[] args) {
 		

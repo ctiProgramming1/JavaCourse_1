@@ -10,7 +10,7 @@ package Lectures;
 
 import java.math.*;
 
-public class Lec04 {
+public class Lec05_CastingTypes_Random_String {
 
 	public static void main(String[] args) {
 

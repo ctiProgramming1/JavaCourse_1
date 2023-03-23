@@ -7,7 +7,7 @@
 */
 package Lectures;
 
-public class Lec09 {
+public class Lec09_Methods {
 	
 	// Simple method 1
 	void greeting()

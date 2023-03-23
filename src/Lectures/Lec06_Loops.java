@@ -8,7 +8,7 @@ package Lectures;
 
 import java.util.Scanner;
 
-public class Lec06 {
+public class Lec06_Loops {
 
 	public static void main(String[] args) throws InterruptedException{
 		

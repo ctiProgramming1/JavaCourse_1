@@ -10,7 +10,7 @@ package Lectures;
 
 import java.util.Scanner;
 
-public class Lec03 {
+public class Lec03_Comparison {
 	
 
 	public static void main(String[] args) {

@@ -8,7 +8,7 @@
 
 package Lectures;
 
-public class Lec05 {
+public class Lec04_Ternary_Switch {
 
 	public static void main(String[] args) {
 	
