@@ -1,7 +1,7 @@
 /* 
   Lecture 8: Methods
   
-  source 1: https://harmash.com/java/java-methods/
+  source 1: https://harmash.com/tutorials/java/methods
   source 2: https://www.w3schools.com/java/java_methods.asp
 
 */
